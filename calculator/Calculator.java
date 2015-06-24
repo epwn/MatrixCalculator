@@ -1,3 +1,5 @@
+//Ryan Miller
+
 package calculator;
 
 import java.awt.BorderLayout;
